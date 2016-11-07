@@ -1,0 +1,115 @@
+Engineer    VPN userid        VPN password            JIRA userid       JIRA password 
+Vijay       vsingh            VMX110415vs             vsingh            ?     
+
+
+UserName:- Manpreet.sethi@rsystems.com
+PWD: 012345678
+
+URL : http://phase2dev.evo-td.com/EVO/FollowingDetails
+
+Username: rakesh.chouhan@rsystems.com
+Password: rakesh
+
+salilgupta@gmail.com
+india@123
+
+
+ssh://git@vmx-ussd-git-01/VcasGui 
+
+
+FTP.Rsystems.Com
+User id: ind-del\VerimatrixQA
+Password:           v3R1m@T31XFtP!
+
+vmx-ussd-git-01
+
+TRELLO USER PASS
+vijaypratap.singh@rsystems.com
+vijay@0000
+
+
+
+/opt/vcas/platform/bin/DeepBlue123.ts.mpg
+
+grunt serve --host=10.131.55.11
+git fetch --all  //fetch all branches
+git checkout branch  //switch to another branch
+git log		// to view commit history
+git blame file name		// to check commit history of specific file
+git show commitid		// to check details of specific commit on single file
+git diff		// to check changes on local files
+git reset --hard HEAD		// to revert all local changes in repo
+
+
+Other url and commands
+
+http://stackoverflow.com/questions/12185222/smartgit-installation-and-usage-on-ubuntu
+http://www.wikihow.com/Install-Oracle-Java-JRE-on-Ubuntu-Linux
+https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/ 
+http://logxan.blogspot.com/2015/04/jetbrains-webstorm-10-license-key-is.html
+
+
+Build Number Sample:
+Latest Build Number Format: 
+	vcas_gui_3.8.0.0-3.8.0.0.a1.13.zip
+
+
+
+
+
+git checkout -b develop 			//To create new branch
+git checkout branch-name 			//switch the branch from one to another
+git checkout -b vijay-1				//To create new feature branch
+
+git checkout -b VGREF-123-fix-modal-title		//this will create the new branch, put you on it
+git push --set-upstream origin VGREF-123-fix-modal-title	//then push it to the origin remote after changes done
+git checkout develop							//Switch to branch Develop
+git merge VGREF-123-fix-modal-title --no-ff		//
+
+
+
+
+
+
+
+
+
+
+/*Steps to Clean DB LOGIN on putty first*/
+
+cd /home/vmx/
+/etc/init.d/vcasd stop    
+cd /opt/vcas/platform/sqlscripts/oracle
+source /home/oracle/.bash_profile
+./install_vcas.sh -s vcas -p verimatrix -d /opt/oracle/oradata/ -l /
+/etc/init.d/vcasd start
+
+
+
+/*VCAS GUI html components on intredea cloud site*/
+
+
+
+
+
+
+
+
+LICENSE KEY FOR WEBSTORM
+
+USER NAME : SPY007
+
+===== LICENSE BEGIN =====
+06765-12042010
+00001EshVM5ty2Py70aK3Z7eyc7N"x
+aA4LuK4RG8YU30DqTJudk2yRgOVS4L
+"4ZXdcWihLQXpkK3Z6D3klK9ZmQZLK
+===== LICENSE END =====
+
+
+git checkout -b VGREF-455-IPTV settings related options should not be displayed && git push --set-upstream origin VGREF-455-IPTV settings related options should not be displayed 
+
+//AngularText for editor use
+http://embed.plnkr.co/FqbZ8ic9O1V1Czq5KqaF/
+
+http://mherman.org/blog/2015/07/02/handling-user-authentication-with-the-mean-stack/#.V34IK_l94dU
